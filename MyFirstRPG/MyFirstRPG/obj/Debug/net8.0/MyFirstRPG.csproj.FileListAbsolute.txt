@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\bin\Debug\net8.0\MyFirstRPG.exe
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\bin\Debug\net8.0\MyFirstRPG.deps.json
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\bin\Debug\net8.0\MyFirstRPG.runtimeconfig.json
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\bin\Debug\net8.0\MyFirstRPG.dll
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\bin\Debug\net8.0\MyFirstRPG.pdb
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\obj\Debug\net8.0\MyFirstRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\obj\Debug\net8.0\MyFirstRPG.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\obj\Debug\net8.0\MyFirstRPG.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\obj\Debug\net8.0\MyFirstRPG.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\obj\Debug\net8.0\MyFirstRPG.dll
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\obj\Debug\net8.0\refint\MyFirstRPG.dll
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\obj\Debug\net8.0\MyFirstRPG.pdb
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\obj\Debug\net8.0\MyFirstRPG.genruntimeconfig.cache
+C:\Users\Alex\source\repos\MyFirstRPG\MyFirstRPG\obj\Debug\net8.0\ref\MyFirstRPG.dll
